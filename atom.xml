@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://miracledesigner.github.io</id>
+    <id>https://MiracleDesigner.github.io</id>
     <title>Gridea</title>
-    <updated>2021-03-02T07:46:38.630Z</updated>
+    <updated>2021-03-02T09:17:05.345Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://miracledesigner.github.io"/>
-    <link rel="self" href="https://miracledesigner.github.io/atom.xml"/>
+    <link rel="alternate" href="https://MiracleDesigner.github.io"/>
+    <link rel="self" href="https://MiracleDesigner.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://miracledesigner.github.io/images/avatar.png</logo>
-    <icon>https://miracledesigner.github.io/favicon.ico</icon>
+    <logo>https://MiracleDesigner.github.io/images/avatar.png</logo>
+    <icon>https://MiracleDesigner.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[test]]></title>
-        <id>https://miracledesigner.github.io/post/test/</id>
-        <link href="https://miracledesigner.github.io/post/test/">
+        <id>https://MiracleDesigner.github.io/post/test/</id>
+        <link href="https://MiracleDesigner.github.io/post/test/">
         </link>
         <updated>2021-03-02T07:23:34.000Z</updated>
         <content type="html"><![CDATA[<p>111</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://miracledesigner.github.io/post/hello-gridea/</id>
-        <link href="https://miracledesigner.github.io/post/hello-gridea/">
+        <id>https://MiracleDesigner.github.io/post/hello-gridea/</id>
+        <link href="https://MiracleDesigner.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
